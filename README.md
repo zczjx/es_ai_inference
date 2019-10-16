@@ -1,2 +1,2 @@
 # es_ai_inference
-embedded system AI Inference solution
+Embedded System AI Inference Solution
